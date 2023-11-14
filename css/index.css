@@ -1,0 +1,49 @@
+#slides{
+	margin-left: 300px;
+	margin-top: 40px;
+	width: 400px;
+}
+#catalogo{
+	margin-top: 100px;
+	margin-left: 200px;
+
+}
+#quienes_somos{
+	margin-top: 100px;
+}
+
+#card-quienes_somos{
+	width: 800px;
+	margin-left: 200px;
+}
+#contactanos{
+	margin-top: 100px;
+}
+#card-contactanos{
+	margin-left: 200px;
+	width: 800px;
+}
+
+#comentarios{
+	margin-top: 100px;
+}
+#card-tuComentario{
+	margin-left: 200px;
+	width: 800px;
+}
+#card-comentarios{
+	margin-top: 40px;
+	margin-left: 200px;
+	width: 800px;
+}
+.col-2 {
+	transition: transform .2s;
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+.col-2:hover {
+  transform: scale(1.8);
+}
